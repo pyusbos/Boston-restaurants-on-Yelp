@@ -1,2 +1,2 @@
 # Boston-restaurants-on-Yelp
-Gathering, scraping, munging and cleaning data from different sources: Yelp API, csv files, and Yelp web scraping. Then reformatting the data to fit in to the conceptual database model.
+Working on the data of Boston restaurants on Yelp. Gathering, scraping, munging and cleaning data from three sources: Yelp API, raw csv data and Yelp web scraper with beautifulsoup. Then reformatting the data to fit a conceptual database model. Also auditing the quality and estimate the amount of the data. Last, writing a report explaining all of the code, results and files.
